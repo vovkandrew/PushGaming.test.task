@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "DefaultTest.properties",
+      "type": "java.lang.String",
+      "description": "Description for DefaultTest.properties."
+  }
+] }
